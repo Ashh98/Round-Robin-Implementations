@@ -36,5 +36,6 @@ selection criteria applied in Mishra’s Round Robin, and it also considers repr
 
 ## References
 
-[1] Abdulrazaq Abdulrahim, Saleh E Abdullahi, Junaidu B. Sahalu, “A New Improved Round Robin (NIRR) CPU Scheduling Algorithm” International Journal of Computer Applications (IJCA), Volume 90, No. 4, March 2014
+[1] Abdulrazaq Abdulrahim, Saleh E Abdullahi, Junaidu B. Sahalu, “A New Improved Round Robin (NIRR) CPU Scheduling Algorithm” International Journal of Computer Applications (IJCA), Volume 90, No. 4, March 2014.
+
 [2] Manish Kumar Mishra, Abdul Kadir Khan, “An Improved Round Robin CPU Scheduling Algorithm”, Journal of Global Research in Computer Science, Vol. 3, No. 6, June 2012.
