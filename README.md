@@ -6,7 +6,7 @@ This project is an implementation of different versions of Round Robin algorithm
 
 Four different Round Robin algorithms are discussed. The first one is the classical Round Robin version, and then two different advanced improved versions of Round Robin are tackled. Finally, a crossover algorithm between the two advanced algorithms is introduced.
 
-### Classical Round Robin
+#### Classical Round Robin
 
 Classical Round Robin starts with looping over the processes queue such that each process is
 appointed only for the determined time quantum. The loop shall keep functioning until no process
